@@ -1,0 +1,592 @@
+2021-05-02 21:03:35.872 [ERROR] [Thread-0] GameLogger - n : Created Room 110
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - j : Entered in Room 110
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - INFO : Board Created
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - INFO : Dice Created
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - n : Allowed to Begin from 0
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - n : 3
+2021-05-02 21:03:35.875 [ERROR] [Thread-0] GameLogger - n :  moved from 0 to 3
+2021-05-02 21:03:35.876 [ERROR] [Thread-0] GameLogger - INFO : n found Ladder at 3 to 15
+2021-05-02 21:03:35.876 [ERROR] [Thread-0] GameLogger - n :  moved from 3 to 15
+2021-05-02 21:03:35.876 [ERROR] [Thread-0] GameLogger - n : 3
+2021-05-02 21:03:35.876 [ERROR] [Thread-0] GameLogger - n :  moved from 15 to 18
+2021-05-02 21:03:35.876 [ERROR] [Thread-0] GameLogger - j : 4
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n : 5
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n :  moved from 18 to 23
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n : 5
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n :  moved from 23 to 28
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n :  moved from 28 to 34
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - INFO : n found Snake at 34 to 11
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n :  moved from 34 to 11
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.877 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n :  moved from 11 to 15
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n : 3
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n :  moved from 15 to 18
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n : 3
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n :  moved from 18 to 21
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n : 3
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n :  moved from 21 to 24
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : 5
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n : 5
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n :  moved from 24 to 29
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.878 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n : 5
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n :  moved from 29 to 35
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n :  moved from 35 to 40
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : 4
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n :  moved from 40 to 42
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n :  moved from 42 to 48
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n :  moved from 48 to 52
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.879 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 52 to 54
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 54 to 60
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 60 to 64
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 2
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 64 to 66
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 66 to 68
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 68 to 70
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 1
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 70 to 71
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 5
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 71 to 76
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 5
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n :  moved from 76 to 80
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : 4
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.880 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 1
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 80 to 86
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 86 to 92
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 92 to 93
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : 4
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 93 to 97
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 4
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : 3
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 2
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 97 to 99
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : 1
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - j : waiting for 6
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n : 1
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n :  moved from 99 to 100
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - n Won
+2021-05-02 21:03:35.881 [ERROR] [Thread-0] GameLogger - INFO : Existing Room 110
+2021-05-02 22:47:11.339 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:47:27.032 [ERROR] [main] GameLogger - input : 1
+2021-05-02 22:47:27.033 [ERROR] [main] GameLogger - Enter your name: 
+2021-05-02 22:47:32.803 [ERROR] [main] GameLogger - input : Nikhil
+2021-05-02 22:47:32.804 [ERROR] [main] GameLogger - Nikhil Registered
+2021-05-02 22:47:32.804 [ERROR] [main] GameLogger - 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:47:37.298 [ERROR] [main] GameLogger - Input : 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:47:37.299 [ERROR] [main] GameLogger - Nikhil : Created Room -1961632869
+2021-05-02 22:47:37.300 [ERROR] [Thread-0] GameLogger - Waiting Inside Room -1961632869
+2021-05-02 22:47:37.414 [ERROR] [main] GameLogger - Open rooms : -1961632869
+2021-05-02 22:47:37.415 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:50:40.039 [ERROR] [main] GameLogger - input : 1
+2021-05-02 22:50:40.040 [ERROR] [main] GameLogger - Enter your name: 
+2021-05-02 22:50:44.647 [ERROR] [main] GameLogger - input : Jeetal
+2021-05-02 22:50:44.647 [ERROR] [main] GameLogger - Jeetal Registered
+2021-05-02 22:50:44.647 [ERROR] [main] GameLogger - 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:50:51.193 [ERROR] [main] GameLogger - Input : 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:50:51.193 [ERROR] [main] GameLogger - Enter the Room ID : 
+2021-05-02 22:51:14.362 [ERROR] [main] GameLogger - Input : -1961632869
+2021-05-02 22:51:14.363 [ERROR] [main] GameLogger - Jeetal : Entered in Room -1961632869
+2021-05-02 22:51:14.363 [ERROR] [main] GameLogger - 1. Start Game 	 2. Continue
+2021-05-02 22:51:19.474 [ERROR] [main] GameLogger - Input : 1. Start Game 	 2. Continue
+2021-05-02 22:51:19.474 [ERROR] [main] GameLogger - Open rooms : -1961632869
+2021-05-02 22:51:19.475 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:51:26.299 [ERROR] [main] GameLogger - input : 1
+2021-05-02 22:51:26.300 [ERROR] [main] GameLogger - Enter your name: 
+2021-05-02 22:51:32.884 [ERROR] [main] GameLogger - input : Ashok
+2021-05-02 22:51:32.884 [ERROR] [main] GameLogger - Ashok Registered
+2021-05-02 22:51:32.884 [ERROR] [main] GameLogger - 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:51:35.252 [ERROR] [main] GameLogger - Input : 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:51:35.252 [ERROR] [main] GameLogger - Ashok : Created Room 63558322
+2021-05-02 22:51:35.253 [ERROR] [Thread-1] GameLogger - Waiting Inside Room 63558322
+2021-05-02 22:51:35.366 [ERROR] [main] GameLogger - Open rooms : -1961632869
+2021-05-02 22:51:35.366 [ERROR] [main] GameLogger - Open rooms : -1961632869 63558322
+2021-05-02 22:51:35.366 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:51:45.816 [ERROR] [main] GameLogger - input : 1
+2021-05-02 22:51:45.816 [ERROR] [main] GameLogger - Enter your name: 
+2021-05-02 22:51:51.292 [ERROR] [main] GameLogger - input : Janu
+2021-05-02 22:51:51.292 [ERROR] [main] GameLogger - Janu Registered
+2021-05-02 22:51:51.293 [ERROR] [main] GameLogger - 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:51:52.810 [ERROR] [main] GameLogger - Input : 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:51:52.810 [ERROR] [main] GameLogger - Enter the Room ID : 
+2021-05-02 22:52:02.024 [ERROR] [main] GameLogger - Input : 63558322
+2021-05-02 22:52:02.024 [ERROR] [main] GameLogger - Janu : Entered in Room 63558322
+2021-05-02 22:52:02.024 [ERROR] [main] GameLogger - 1. Start Game 	 2. Continue
+2021-05-02 22:52:05.572 [ERROR] [main] GameLogger - Input : 1. Start Game 	 2. Continue
+2021-05-02 22:52:05.572 [ERROR] [main] GameLogger - Starting room 63558322
+2021-05-02 22:52:10.312 [ERROR] [Thread-1] GameLogger - Board Created
+2021-05-02 22:52:10.312 [ERROR] [Thread-1] GameLogger - Dice Created
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : 4
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : 2
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : 5
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : 5
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : 1
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : 1
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : 1
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : 1
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : 6
+2021-05-02 22:52:10.313 [ERROR] [Thread-1] GameLogger - Ashok : Allowed to Begin from 0
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 3
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 0 to 3
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 3 to 5
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 1
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 1
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 5 to 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 5
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 6 to 8
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 5
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : waiting for 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 8 to 10
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 6
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : Allowed to Begin from 0
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu : 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Janu :  moved from 0 to 2
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok : 5
+2021-05-02 22:52:10.314 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 10 to 15
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu : 3
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu :  moved from 2 to 5
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok : 1
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 15 to 16
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok found Ladder at 16 to 50
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 16 to 50
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok : 6
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok : 1
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 50 to 56
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 56 to 57
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu : 4
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu :  moved from 5 to 9
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu found Ladder at 9 to 42
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu :  moved from 9 to 42
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu : 6
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu :  moved from 42 to 48
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu found Snake at 48 to 36
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu :  moved from 48 to 36
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok : 3
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 57 to 60
+2021-05-02 22:52:10.315 [ERROR] [Thread-1] GameLogger - Janu : 1
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Janu :  moved from 36 to 37
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok : 2
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 60 to 62
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok found Ladder at 62 to 95
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 62 to 95
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok : 5
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Ashok :  moved from 95 to 100
+2021-05-02 22:52:10.316 [FATAL] [Thread-1] GameLogger - Ashok Won
+2021-05-02 22:52:10.316 [ERROR] [Thread-1] GameLogger - Existing Room 63558322
+2021-05-02 22:52:12.588 [ERROR] [main] GameLogger - Open rooms : -1961632869
+2021-05-02 22:52:12.588 [ERROR] [main] GameLogger - Open rooms : -1961632869
+2021-05-02 22:52:12.588 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:53:33.655 [ERROR] [main] GameLogger - input : 1
+2021-05-02 22:53:33.655 [ERROR] [main] GameLogger - Enter your name: 
+2021-05-02 22:53:44.796 [ERROR] [main] GameLogger - input : Vaishnavi
+2021-05-02 22:53:44.796 [ERROR] [main] GameLogger - Vaishnavi Registered
+2021-05-02 22:53:44.796 [ERROR] [main] GameLogger - 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:53:47.066 [ERROR] [main] GameLogger - Input : 1. Create Room 	 2. Join Room 	 3. Exit
+2021-05-02 22:53:47.066 [ERROR] [main] GameLogger - Enter the Room ID : 
+2021-05-02 22:53:57.433 [ERROR] [main] GameLogger - Input : -1961632869
+2021-05-02 22:53:57.433 [ERROR] [main] GameLogger - Vaishnavi : Entered in Room -1961632869
+2021-05-02 22:53:57.434 [ERROR] [main] GameLogger - 1. Start Game 	 2. Continue
+2021-05-02 22:54:02.335 [ERROR] [main] GameLogger - Input : 1. Start Game 	 2. Continue
+2021-05-02 22:54:02.335 [ERROR] [main] GameLogger - Starting room -1961632869
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Board Created
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Dice Created
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Jeetal : waiting for 6
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Vaishnavi : waiting for 6
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.924 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Jeetal : waiting for 6
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Vaishnavi : waiting for 6
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Jeetal : waiting for 6
+2021-05-02 22:54:02.925 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Vaishnavi : Allowed to Begin from 0
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 0 to 4
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Nikhil : 3
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Jeetal : Allowed to Begin from 0
+2021-05-02 22:54:02.926 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 0 to 4
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 4 to 6
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 4 to 6
+2021-05-02 22:54:02.927 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 6 to 10
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 6 to 11
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal found Ladder at 11 to 42
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 11 to 42
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.928 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 42 to 46
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 10 to 13
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 46 to 49
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.929 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 13 to 15
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 49 to 52
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 15 to 19
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Vaishnavi found Ladder at 19 to 50
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 19 to 50
+2021-05-02 22:54:02.930 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 50 to 56
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 56 to 59
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 52 to 57
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 57 to 13
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 57 to 13
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Vaishnavi : 5
+2021-05-02 22:54:02.931 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 59 to 64
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Vaishnavi found Snake at 64 to 10
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 64 to 10
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 13 to 18
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 10 to 14
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 18 to 19
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal found Ladder at 19 to 50
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 19 to 50
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.932 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 50 to 52
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 14 to 17
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi found Ladder at 17 to 37
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 17 to 37
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 37 to 40
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 52 to 57
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 57 to 13
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 57 to 13
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi : 1
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 40 to 41
+2021-05-02 22:54:02.933 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 13 to 16
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 41 to 47
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 47 to 49
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Nikhil : 3
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 16 to 19
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal found Ladder at 19 to 50
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 19 to 50
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 50 to 54
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 49 to 51
+2021-05-02 22:54:02.934 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 54 to 57
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 57 to 13
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 57 to 13
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 51 to 57
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Vaishnavi found Snake at 57 to 13
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 57 to 13
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.935 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 13 to 16
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 13 to 16
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Nikhil : waiting for 6
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 16 to 18
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi : 1
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 16 to 22
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 22 to 23
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Nikhil : Allowed to Begin from 0
+2021-05-02 22:54:02.936 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 0 to 6
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 6 to 7
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 18 to 21
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 23 to 26
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 7 to 11
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil found Ladder at 11 to 42
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 11 to 42
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil : 3
+2021-05-02 22:54:02.937 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 42 to 45
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 21 to 24
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 26 to 29
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 45 to 47
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 24 to 26
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.938 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 29 to 35
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 35 to 39
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 47 to 53
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 53 to 55
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.939 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 26 to 27
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 39 to 41
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 55 to 57
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Nikhil found Snake at 57 to 13
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 57 to 13
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.940 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 27 to 33
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 33 to 38
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 41 to 45
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 13 to 14
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 38 to 40
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi : 5
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 45 to 50
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 14 to 16
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 40 to 41
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 50 to 53
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil : 3
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 16 to 19
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil found Ladder at 19 to 50
+2021-05-02 22:54:02.941 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 19 to 50
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 50 to 56
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 56 to 60
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil found Snake at 60 to 30
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 60 to 30
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.942 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 41 to 43
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 43 to 15
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 43 to 15
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi : 5
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 53 to 58
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 30 to 36
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 36 to 41
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 5
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 15 to 20
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 58 to 61
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 41 to 46
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 20 to 24
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 61 to 65
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 46 to 48
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 24 to 30
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 30 to 31
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi : 3
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 65 to 71
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 71 to 74
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 48 to 53
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.943 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 31 to 37
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 37 to 43
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 43 to 15
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 43 to 15
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 74 to 78
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 53 to 54
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 15 to 19
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal found Ladder at 19 to 50
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 19 to 50
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal : 2
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 50 to 56
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 56 to 58
+2021-05-02 22:54:02.945 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 78 to 82
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 54 to 59
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 58 to 59
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Vaishnavi : 1
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 82 to 83
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 59 to 60
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil found Snake at 60 to 30
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 60 to 30
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 59 to 62
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 83 to 87
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil : 5
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 30 to 35
+2021-05-02 22:54:02.946 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 4
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 62 to 68
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 68 to 72
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 5
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 87 to 92
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 3
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 35 to 38
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 72 to 73
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 92 to 96
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 38 to 39
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 73 to 74
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 2
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 96 to 98
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 6
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 39 to 45
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 45 to 47
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 74 to 80
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 80 to 81
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 6
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 4
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 4
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 47 to 51
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 81 to 82
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi : 1
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 98 to 99
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil : 2
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Nikhil :  moved from 51 to 53
+2021-05-02 22:54:02.947 [ERROR] [Thread-0] GameLogger - Jeetal : 6
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Jeetal : 3
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 82 to 88
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 88 to 91
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Jeetal found Snake at 91 to 73
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Jeetal :  moved from 91 to 73
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Vaishnavi : 1
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Vaishnavi :  moved from 99 to 100
+2021-05-02 22:54:02.948 [FATAL] [Thread-0] GameLogger - Vaishnavi Won
+2021-05-02 22:54:02.948 [ERROR] [Thread-0] GameLogger - Existing Room -1961632869
+2021-05-02 22:54:09.343 [ERROR] [main] GameLogger - Open rooms :
+2021-05-02 22:54:09.343 [ERROR] [main] GameLogger - Open rooms :
+2021-05-02 22:54:09.343 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:54:15.046 [ERROR] [main] GameLogger - input : 2
+2021-05-02 22:54:15.047 [ERROR] [main] GameLogger - Exit the Program
+2021-05-02 22:59:15.103 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 22:59:55.651 [ERROR] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 23:02:18.217 [DEBUG] [main] GameLogger - 1. Register Player 	 2. Exit
+2021-05-02 23:09:33.974 [DEBUG] [main] GameLogger - 1. Register Player 	 2. Exit
